@@ -1,0 +1,65 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "DZ4/bbdydDMG1GP7Axm3/52LVuU=",
+			"path": "github.com/DataDog/dd-trace-go/contrib/gorilla/mux",
+			"revision": "b5095645ba673115f68b9de7593a93d5d4f2ec14",
+			"revisionTime": "2018-02-22T10:12:48Z"
+		},
+		{
+			"checksumSHA1": "3HPynyC0bzdiEvVu9BKRiiERTp0=",
+			"path": "github.com/DataDog/dd-trace-go/contrib/internal",
+			"revision": "b5095645ba673115f68b9de7593a93d5d4f2ec14",
+			"revisionTime": "2018-02-22T10:12:48Z"
+		},
+		{
+			"path": "github.com/DataDog/dd-trace-go/trace",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "/F6KUxHrVNAtX3MCkc70/tPWobc=",
+			"path": "github.com/DataDog/dd-trace-go/tracer",
+			"revision": "b5095645ba673115f68b9de7593a93d5d4f2ec14",
+			"revisionTime": "2018-02-22T10:12:48Z"
+		},
+		{
+			"checksumSHA1": "FERjvMLsh6qO1CQ/sEC1bNHLok8=",
+			"path": "github.com/DataDog/dd-trace-go/tracer/ext",
+			"revision": "b5095645ba673115f68b9de7593a93d5d4f2ec14",
+			"revisionTime": "2018-02-22T10:12:48Z"
+		},
+		{
+			"checksumSHA1": "IkPM2QLv9urri7S49wzroQx9oXA=",
+			"path": "github.com/gorilla/context",
+			"revision": "08b5f424b9271eedf6f9f0ce86cb9396ed337a42",
+			"revisionTime": "2016-08-17T18:46:32Z"
+		},
+		{
+			"checksumSHA1": "WDwy+CLWP4zY7vELzo0gC477VxU=",
+			"path": "github.com/gorilla/mux",
+			"revision": "07ba1fd60e210dc5cc6f86ec25dc9ecc7c95c295",
+			"revisionTime": "2018-02-26T05:11:51Z"
+		},
+		{
+			"checksumSHA1": "lWuHLYOV7EMgCa+GUWncO1Wk2sI=",
+			"path": "github.com/speps/go-hashids",
+			"revision": "c6ced3330f133cec79e144fb11b2e4c5154059ae",
+			"revisionTime": "2017-07-05T20:44:38Z"
+		},
+		{
+			"checksumSHA1": "XlHkzwFZkQjftIeIDN9Kz3HbqIw=",
+			"path": "github.com/ugorji/go/codec",
+			"revision": "16f09ef744fd4227190f626f14cfdefb14362b3b",
+			"revisionTime": "2018-02-24T12:56:51Z"
+		},
+		{
+			"checksumSHA1": "eQq+ZoTWPjyizS9XalhZwfGjQao=",
+			"path": "golang.org/x/sys/windows",
+			"revision": "dd2ff4accc098aceecb86b36eaa7829b2a17b1c9",
+			"revisionTime": "2018-03-01T08:23:35Z"
+		}
+	],
+	"rootPath": "alex-j-butler.com/url-shortener"
+}
